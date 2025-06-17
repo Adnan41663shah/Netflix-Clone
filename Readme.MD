@@ -6,7 +6,7 @@ Welcome to my **Netflix Clone** — a front-end replica of the Netflix homepage 
 
 | Hero Section | Movie Gallery |
 |--------------|----------------|
-| ![Hero](./Assets/Screenshot1.png) | ![Movies](./Assets/Screenshot2.png) |
+| ![Hero](./Assets/Screenshot1.png) | ![Movies](./Assets/Screenshot3.png) | ![Movies](./Assets/Screenshot2.png) |
 
 ## 🚀 Features
 
