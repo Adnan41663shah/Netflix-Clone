@@ -2,12 +2,6 @@
 
 Welcome to my **Netflix Clone** — a front-end replica of the Netflix homepage built with **pure HTML and CSS**! This responsive and visually appealing project mimics the Netflix user interface, including features like a hero section, navbar, movie showcase, FAQs, and a footer, all wrapped in a clean layout.
 
-## 🌐 Live Preview
-
-🔗 [View Live Demo](#) *(Replace with GitHub Pages link if deployed)*
-
----
-
 ## 📸 Screenshots
 
 | Hero Section | Movie Gallery |
