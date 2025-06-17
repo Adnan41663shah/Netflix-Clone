@@ -12,11 +12,7 @@ Welcome to my **Netflix Clone** — a front-end replica of the Netflix homepage 
 
 | Hero Section | Movie Gallery |
 |--------------|----------------|
-| ![Hero](./Assets/screenshot1.png) | ![Movies](./Assets/screenshot2.png) |
-
-> *(You can add screenshots of the project here by taking screenshots and placing them in the `Assets/` folder)*
-
----
+| ![Hero](./Assets/Screenshot1.png) | ![Movies](./Assets/Screenshot2.png) |
 
 ## 🚀 Features
 
