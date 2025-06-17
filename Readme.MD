@@ -35,8 +35,11 @@ Welcome to my **Netflix Clone** — a front-end replica of the Netflix homepage 
 | CSS3       | Styling and layout  
 
 📧 Contact
+
 👤 Adnan Shah
+
 📨 Email Me: adnanshah41663@gmail.com
+
 🌐 GitHub Profile: https://github.com/Adnan41663shah
 
 📄 License
